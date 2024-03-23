@@ -125,7 +125,7 @@ Once again, the event listener function is already scaffolded. It's up to you to
    - `.previousElementSibling` gives you the preceding square or row, if any.
    - `.firstChild` gives you the mosquito inside a square, if any.
 
-1. These properties can be chained together to quickly traverse the DOM. For example: `square.parentElement.children[2].classList.add('a-cousin-of-square')`.
+1. These properties can be chained together to quickly traverse the DOM. For example: `square.parentElement.children[2].classList.add('a-cousin-of-square')`
 
 1. Pseudo code for "up" (SPOILER ALERT ❗):
 
